@@ -177,7 +177,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&theme=dark&hide_border=false&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai"
     alt="Atharva's Top Languages"
   />
 </p>
