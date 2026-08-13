@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Atharva Sawai</h1>
 
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -168,28 +165,29 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
-    alt="Atharva's GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai"
-    alt="Atharva's Top Languages"
-  />
-</p>
+<img
+  src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
+  alt="Atharva's GitHub Stats"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai"
+  alt="Atharva's Top Languages"
+  height="180"
+/>
+
+</div>
 
 <h3 align="left">GitHub Streak:</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=Atharva-VSawai"
+      src="https://streak-stats.demolab.com/?user=Atharva-VSawai&theme=dark&hide_border=false"
       alt="GitHub Streak"
     />
   </a>
 </p>
-```
