@@ -188,7 +188,7 @@
 
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com/?user=Atharva-VSawai&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=Atharva-VSawai"
     alt="GitHub Streak"
     width="495"
   />
