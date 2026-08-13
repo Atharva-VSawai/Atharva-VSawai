@@ -170,7 +170,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
+    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
     alt="Atharva's GitHub Stats"
   />
 </p>
