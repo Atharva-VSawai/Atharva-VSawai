@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+align="right"
+alt="coding"
+width="400"
+src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 />
 
 <p align="left">
@@ -16,11 +16,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Node.js, React, Angular, Next.js, Express.js**
+* 🌱 I’m currently learning **Node.js, React, Angular, Next.js, Express.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+* 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
-- 📫 How to reach me **atharva.s.official@gmail.com**
+* 📫 How to reach me **[atharva.s.official@gmail.com](mailto:atharva.s.official@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -118,7 +118,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/src/images/icons/Social/javascript.svg"
     alt="JavaScript"
     width="40"
     height="40"
@@ -165,29 +165,38 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
+        alt="Atharva's GitHub Stats"
+        width="400"
+      />
+    </td>
 
-<img
-  src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
-  alt="Atharva's GitHub Stats"
-  height="180"
-/>
+```
+<td width="50%" align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact"
+    alt="Atharva's Top Languages"
+    width="400"
+  />
+</td>
+```
 
-<img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai"
-  alt="Atharva's Top Languages"
-  height="180"
-/>
-
-</div>
+  </tr>
+</table>
 
 <h3 align="left">GitHub Streak:</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=Atharva-VSawai&theme=dark&hide_border=false"
+      src="https://streak-stats.demolab.com/?user=Atharva-VSawai&theme=dark&hide_border=false&card_width=495&card_height=195"
       alt="GitHub Streak"
+      width="495"
+      height="195"
     />
   </a>
 </p>
