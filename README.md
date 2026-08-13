@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Atharva-VSawai/Atharva-VSawai/blob/main/1696091113125.jpeg" alt="logo">
+
 
 <h1 align="center">Hi 👋, I'm Atharva Sawai</h1>
 
