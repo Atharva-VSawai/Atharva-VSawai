@@ -182,21 +182,6 @@
 
 </p>
 
-<h3 align="left">GitHub Streak:</h3>
-
-<p align="center">
-
-<a href="https://git.io/streak-stats">
-<img
-  src="https://streak-stats.demolab.com?user=Atharva-VSawai"
-  alt="GitHub Streak"
-  width="495"
-  height="220"
-/>
-
-</a>
-
-</p>
 
 <h3 align="left">GitHub Streak:</h3>
 
