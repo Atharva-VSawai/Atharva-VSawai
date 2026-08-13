@@ -1,3 +1,4 @@
+```html
 <img src="https://github.com/Atharva-VSawai/Atharva-VSawai/blob/main/1696091113125.jpeg" alt="logo">
 
 <h1 align="center">Hi 👋, I'm Atharva Sawai</h1>
@@ -67,7 +68,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap"
+    alt="Bootstrap"
     width="40"
     height="40"
   />
@@ -76,7 +77,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
+    alt="CSS3"
     width="40"
     height="40"
   />
@@ -85,7 +86,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
+    alt="Figma"
     width="40"
     height="40"
   />
@@ -94,7 +95,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
+    alt="Git"
     width="40"
     height="40"
   />
@@ -103,7 +104,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
+    alt="HTML5"
     width="40"
     height="40"
   />
@@ -112,7 +113,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java"
+    alt="Java"
     width="40"
     height="40"
   />
@@ -121,7 +122,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
+    alt="JavaScript"
     width="40"
     height="40"
   />
@@ -130,7 +131,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux"
+    alt="Linux"
     width="40"
     height="40"
   />
@@ -139,7 +140,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
+    alt="Postman"
     width="40"
     height="40"
   />
@@ -148,7 +149,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
+    alt="Python"
     width="40"
     height="40"
   />
@@ -157,7 +158,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="tailwind"
+    alt="Tailwind CSS"
     width="40"
     height="40"
   />
@@ -167,23 +168,28 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-vsawai&show_icons=true&locale=en&layout=compact"
-    alt="atharva-vsawai"
+    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
+    alt="Atharva's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=atharva-vsawai&show_icons=true&locale=en"
-    alt="atharva-vsawai"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&theme=dark&hide_border=false&layout=compact"
+    alt="Atharva's Top Languages"
   />
 </p>
 
+<h3 align="left">GitHub Streak:</h3>
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=atharva-vsawai"
-    alt="GitHub Streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Atharva-VSawai"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
+```
