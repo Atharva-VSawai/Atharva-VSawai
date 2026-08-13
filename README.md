@@ -166,7 +166,6 @@
   <a href="https://github.com/Atharva-VSawai">
     <img
       height="200"
-      align="center"
       src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
       alt="Atharva's GitHub Stats"
     />
@@ -174,7 +173,6 @@
   <a href="https://github.com/Atharva-VSawai">
     <img
       height="200"
-      align="center"
       src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact&card_width=450"
       alt="Atharva's Top Languages"
     />
