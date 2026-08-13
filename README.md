@@ -166,17 +166,19 @@
 
 <a href="https://github.com/Atharva-VSawai">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
+    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true&card_width=450"
     alt="Atharva's GitHub Stats"
-    width="48%"
+    width="450"
+    height="200"
   />
 </a>
 
 <a href="https://github.com/Atharva-VSawai">
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact&card_width=450"
     alt="Atharva's Top Languages"
-    width="48%"
+    width="450"
+    height="200"
   />
 </a>
 
@@ -188,10 +190,13 @@
 
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com/?user=Atharva-VSawai"
+    src="https://streak-stats.demolab.com?user=Atharva-VSawai&theme=dark&hide_border=false&card_width=460&card_height=200"
     alt="GitHub Streak"
-    width="495"
+    width="460"
+    height="200"
   />
 </a>
+
+</p>
 
 </p>
