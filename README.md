@@ -163,40 +163,31 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-
-<a href="https://github.com/Atharva-VSawai">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true&card_width=450"
-    alt="Atharva's GitHub Stats"
-    width="450"
-    height="200"
-  />
-</a>
-
-<a href="https://github.com/Atharva-VSawai">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact&card_width=450"
-    alt="Atharva's Top Languages"
-    width="450"
-    height="200"
-  />
-</a>
-
+  <a href="https://github.com/Atharva-VSawai">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
+      alt="Atharva's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Atharva-VSawai">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact&card_width=450"
+      alt="Atharva's Top Languages"
+    />
+  </a>
 </p>
 
 <h3 align="left">GitHub Streak:</h3>
 
 <p align="center">
-
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=Atharva-VSawai&theme=dark&hide_border=false&card_width=460&card_height=200"
-    alt="GitHub Streak"
-    width="460"
-    height="200"
-  />
-</a>
-
-</p>
-
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Atharva-VSawai"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
