@@ -163,20 +163,23 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <a href="https://github.com/Atharva-VSawai">
-    <img
-      height="200"
-      src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true"
-      alt="Atharva's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Atharva-VSawai">
-    <img
-      height="200"
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact&card_width=450"
-      alt="Atharva's Top Languages"
-    />
-  </a>
+
+<a href="https://github.com/Atharva-VSawai">
+<img
+  src="https://github-readme-stats.shion.dev/api?username=Atharva-VSawai&include_all_commits=true&count_private=true&show_icons=true&card_width=495"
+  alt="Atharva's GitHub Stats"
+  width="495"
+  height="220"
+/>
+
+<a href="https://github.com/Atharva-VSawai">
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-VSawai&layout=compact&card_width=495"
+  alt="Atharva's Top Languages"
+  width="495"
+  height="220"
+/>
+
 </p>
 
 <h3 align="left">GitHub Streak:</h3>
